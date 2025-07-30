@@ -38,5 +38,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AnimEz.git
+   git clone https://github.com/ThunderFrost23/AnimEz.git
    cd AnimEz
