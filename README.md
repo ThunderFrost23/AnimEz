@@ -16,7 +16,7 @@
 
 ## 🧱 Tech Stack
 
-- **Language:** Swift 5
+- **Language:** Swift 6
 - **Framework:** SwiftUI
 - **Architecture:** MVVM-ready (Modular components)
 - **Design:** Custom UI, pastel gradients, animations
