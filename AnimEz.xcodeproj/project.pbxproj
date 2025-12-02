@@ -29,33 +29,20 @@
 		A7A8E5A02E29745B00E66BEA /* AnimeEzUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimeEzUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		A7A8E5C62E297E1600E66BEA /* Exceptions for "AnimeEz" folder in "AnimeEz" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = A7A8E5862E29745A00E66BEA /* AnimeEz */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		A7A8E5892E29745A00E66BEA /* AnimeEz */ = {
+		A7A8E5892E29745A00E66BEA /* AnimEz */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				A7A8E5C62E297E1600E66BEA /* Exceptions for "AnimeEz" folder in "AnimeEz" target */,
-			);
-			path = AnimeEz;
+			path = AnimEz;
 			sourceTree = "<group>";
 		};
-		A7A8E5992E29745B00E66BEA /* AnimeEzTests */ = {
+		A7A8E5992E29745B00E66BEA /* AnimEzTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = AnimeEzTests;
+			path = AnimEzTests;
 			sourceTree = "<group>";
 		};
-		A7A8E5A32E29745B00E66BEA /* AnimeEzUITests */ = {
+		A7A8E5A32E29745B00E66BEA /* AnimEzUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = AnimeEzUITests;
+			path = AnimEzUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -88,9 +75,9 @@
 		A7A8E57E2E29745A00E66BEA = {
 			isa = PBXGroup;
 			children = (
-				A7A8E5892E29745A00E66BEA /* AnimeEz */,
-				A7A8E5992E29745B00E66BEA /* AnimeEzTests */,
-				A7A8E5A32E29745B00E66BEA /* AnimeEzUITests */,
+				A7A8E5892E29745A00E66BEA /* AnimEz */,
+				A7A8E5992E29745B00E66BEA /* AnimEzTests */,
+				A7A8E5A32E29745B00E66BEA /* AnimEzUITests */,
 				A7A8E5882E29745A00E66BEA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -121,7 +108,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				A7A8E5892E29745A00E66BEA /* AnimeEz */,
+				A7A8E5892E29745A00E66BEA /* AnimEz */,
 			);
 			name = AnimeEz;
 			packageProductDependencies = (
@@ -144,7 +131,7 @@
 				A7A8E5982E29745B00E66BEA /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				A7A8E5992E29745B00E66BEA /* AnimeEzTests */,
+				A7A8E5992E29745B00E66BEA /* AnimEzTests */,
 			);
 			name = AnimeEzTests;
 			packageProductDependencies = (
@@ -167,7 +154,7 @@
 				A7A8E5A22E29745B00E66BEA /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				A7A8E5A32E29745B00E66BEA /* AnimeEzUITests */,
+				A7A8E5A32E29745B00E66BEA /* AnimEzUITests */,
 			);
 			name = AnimeEzUITests;
 			packageProductDependencies = (
