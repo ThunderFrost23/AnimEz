@@ -16,7 +16,7 @@
 
 ## 🧱 Tech Stack
 
-- **Language:** Swift 5
+- **Language:** Swift 6
 - **Framework:** SwiftUI
 - **Architecture:** MVVM-ready (Modular components)
 - **Design:** Custom UI, pastel gradients, animations
@@ -38,5 +38,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AnimEz.git
+   git clone https://github.com/ThunderFrost23/AnimEz.git
    cd AnimEz
